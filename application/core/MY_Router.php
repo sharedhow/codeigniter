@@ -1,8 +1,10 @@
 <?php
-(defined('BASEPATH')) or exit('No direct script access allowed');
 
-/* load the HMVC_Router class */
-require APPPATH . 'third_party/HMVC/Router.php';
+(defined('BASEPATH')) OR exit('No direct script access allowed');
 
-class MY_Router extends HMVC_Router {
+/* load the MX_Router class */
+require APPPATH . "third_party/MX/Router.php";
+
+class MY_Router extends MX_Router {
+    
 }

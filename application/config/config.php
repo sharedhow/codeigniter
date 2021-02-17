@@ -533,4 +533,4 @@ $config['proxy_ips'] = '';
 |
 */
 
-$config['modules_locations'] = array(APPPATH . 'modules/');
+/*$config['modules_locations'] = array(APPPATH . 'modules/');*/

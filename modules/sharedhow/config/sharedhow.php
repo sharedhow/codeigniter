@@ -1,2 +1,2 @@
 <?php
-$config['modules_allowed'] = array('sigin');
+$config['modules_allowed'] = array('signin');

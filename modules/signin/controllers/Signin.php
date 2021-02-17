@@ -1,5 +1,5 @@
 <?php
-
+require_once(MODULES_PATH.'/sharedhow/core/MY_Controller.php');
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
